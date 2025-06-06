@@ -6,16 +6,16 @@
 
 ## Features
 
-- ✅ Tour Package Management (create, update, list)
-- ✅ User Registration & Authentication (JWT)
-- ✅ Tour Booking & Order Flow
-- ✅ Payment Gateway Integration (planned)
-- ✅ Review & Rating System (upcoming)
-- ✅ Input Validation using Go Validator
-- ✅ GORM ORM + PostgreSQL support
-- ✅ Configurable with Viper
-- ✅ Modular Domain-Driven Design
-- ✅ RESTful API using GoFiber
+- Tour Package Management (create, update, list)
+- User Registration & Authentication (JWT)
+- Tour Booking & Order Flow
+- Payment Gateway Integration (planned)
+- Review & Rating System (upcoming)
+- Input Validation using Go Validator
+- GORM ORM + PostgreSQL support
+- Configurable with Viper
+- Modular Domain-Driven Design
+- RESTful API using GoFiber
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 tourlink/
